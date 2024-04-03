@@ -1,0 +1,55 @@
+## WEEK ONE CODE CHALLENGE
+
+## 03/04/2024
+
+## By Margaret Achando
+
+## Description
+   ## challenge1 Gradecalculator
+This code calculates a students grade.Once a student marks is entered, the code validates if the marks is within the range required.If it's within the specified range a grade is rewared according to the marks obtained by the student
+  ## challenge2 speeddetactor
+  This program defines a function which takes the speed of the car as input.It then checks if the speed is equal to or less than the speed limit, if it is it prints ok.If not it calculates the demerit points based on the excess speed.If the demerit points exceed the demeritsPointThreshhold it prints Licence Suspended
+   ## challenge3 netsalarycalulator
+   This code defines function to calculate Gross Salary,Net Salary
+
+
+## Installation
+You use git clone to be able to download the documents in the GitHub
+
+## Installation Requirements
+Git
+
+### Installation instruction
+```
+Git clone git@github.com:Achando-margaret/week1-code-challenge
+
+```
+
+
+## Technologies used
+Github
+Javascript
+
+## Support and contact details
+github.com/Achand0-margaret
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
